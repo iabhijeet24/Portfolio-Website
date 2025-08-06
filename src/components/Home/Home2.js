@@ -4,9 +4,9 @@ import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
+import { SiQuora } from "react-icons/si";
 import { FaLinkedinIn } from "react-icons/fa";
 
 function Home2() {
@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> C++, Javascript and React.js. </b>
               </i>
               <br />
               <br />
@@ -77,12 +77,12 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://www.quora.com/profile/ABHIJEET-SINGH-3839"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiOutlineTwitter />
+                  <SiQuora/>
                 </a>
               </li>
               <li className="social-icons">
@@ -97,7 +97,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/abhiii.who/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
