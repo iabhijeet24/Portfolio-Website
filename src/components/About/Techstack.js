@@ -9,7 +9,7 @@ import {
   DiCss3,
   DiGit,
   DiHtml5,
-  Dicss,
+  DiRuby,
 } from "react-icons/di";
 
 import { SiTailwindcss } from "react-icons/si";
@@ -40,6 +40,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiRuby />
       </Col>
     </Row>
   );
