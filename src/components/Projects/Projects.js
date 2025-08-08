@@ -7,6 +7,7 @@ import gym from "../../Assets/Projects/gym.png";
 import tourism from "../../Assets/Projects/tourism.png";
 import netflix from "../../Assets/Projects/netflix.png";
 import portfolio from "../../Assets/Projects/portfolio.png";
+import ticket from "../../Assets/Projects/ticket.png";
 import project from "../../Assets/Projects/mgmt.png";
 
 function Projects() {
@@ -38,7 +39,7 @@ function Projects() {
               imgPath={tourism}
               isBlog={false}
               title="Meghalaya Tourism Website"
-              description="sgdig sfsgf uudfgsgf ysgfysgf gdufhuksf bisgfisgf gigfigsyd"
+              description="This Meghalaya Tourism website showcases the state’s attractions and culture with a responsive design and intuitive navigation. Built with **HTML5**, **CSS3**, and **JavaScript**, it offers a seamless way to explore Meghalaya’s beauty."
               ghLink="https://github.com/iabhijeet24/Meghalaya-Tourism-Website"
               demoLink="
 "
@@ -50,7 +51,7 @@ function Projects() {
               imgPath={portfolio}
               isBlog={false}
               title="Portfolio Website"
-              description="sgdig sfsgf uudfgsgf ysgfysgf gdufhuksf bisgfisgf gigfigsyd"
+              description="This portfolio website showcases my web development skills, projects, and achievements through a clean, responsive design. Built with **CSS3**, **JavaScript**, and **React.js**, it highlights my work and expertise for recruiters, collaborators, and visitors."
               ghLink="https://github.com/iabhijeet24/GYM-Website"
               demoLink="gym-website-roan-five.vercel.app
 "
