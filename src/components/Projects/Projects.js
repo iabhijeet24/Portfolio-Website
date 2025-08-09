@@ -93,6 +93,28 @@ function Projects() {
 "
             />
           </Col>
+                    <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={tourism}
+              isBlog={false}
+              title="Meghalaya Tourism Website"
+              description="This Meghalaya Tourism website showcases the state’s attractions and culture with a responsive design and intuitive navigation. Built with **HTML5**, **CSS3**, and **JavaScript**, it offers a seamless way to explore Meghalaya’s beauty."
+              ghLink="https://github.com/iabhijeet24/Meghalaya-Tourism-Website"
+              demoLink="
+"
+            />
+          </Col>
+                    <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={tourism}
+              isBlog={false}
+              title="Meghalaya Tourism Website"
+              description="This Meghalaya Tourism website showcases the state’s attractions and culture with a responsive design and intuitive navigation. Built with **HTML5**, **CSS3**, and **JavaScript**, it offers a seamless way to explore Meghalaya’s beauty."
+              ghLink="https://github.com/iabhijeet24/Meghalaya-Tourism-Website"
+              demoLink="
+"
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
